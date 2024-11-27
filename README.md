@@ -21,6 +21,6 @@
 
 **Glosario** (Asamblea, Biodiversidad, Derechos humanos, Gobernanza, Kioto, métrica)
 
-[**Referencias**](referencias.md)
+[**Referencias**](https://es.wikipedia.org/wiki/Sostenibilidad)
 
 **Autores**
