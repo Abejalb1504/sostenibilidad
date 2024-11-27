@@ -1,8 +1,9 @@
 # SOSTENIBILIDAD
 
+![sostenibilidad](img/sostenibilidad-como-megatendencia-850x425.jpg)
  
 ## Índice
-1.1. **Introducción**
+1.1. [**Introducción**](introduccion.md)
 
 1.2. **Sostenibilidad y desarrollo sostenible**
 
@@ -20,6 +21,6 @@
 
 **Glosario** (Asamblea, Biodiversidad, Derechos humanos, Gobernanza, Kioto, métrica)
 
-**Referencias**
+[**Referencias**](referencias.md)
 
 **Autores**
